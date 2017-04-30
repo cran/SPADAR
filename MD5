@@ -1,0 +1,13 @@
+036ee568fbc9a20ab5b6f1998da90df4 *DESCRIPTION
+a056adc7e4a15f3641aa4703ef4ca2fc *NAMESPACE
+f37b571ba40baf4cfcdeb868231f1be1 *R/SPADAR.R
+3a5e6c3300c086bf46197130f68a77e4 *data/uhecrauger2014.RData
+be1c72ebc3cf33150046a77c5b6ace5d *man/SPADAR-package.Rd
+178512f5469743880ae5da87da05ba0b *man/createAllSkyGridChart.Rd
+77ecf40da7283bb6bf9ade71e7becd43 *man/createAllSkyScatterPlotChart.Rd
+14671b84b6e2884dabb7f384656eb323 *man/figures/astrocoordsystems-aitoff.jpg
+76be062e7c2b8e487d7e68e3b4c72769 *man/figures/astrocoordsystems-aitoff.pdf
+764565f4eb6fbd04a1061ed8f8a6181c *man/figures/uhecrauger2014-aitoff-galeq.jpg
+b9b584f94f4d730f1bee5d1eb0c8535b *man/figures/uhecrauger2014-aitoff-galeq.pdf
+c47a8c27e9cd9d1857387e88a4376eb7 *man/overplotScatterPlotInAllSkyGridChart.Rd
+fe9462f017ff90090e8bcd79373d57c6 *man/uhecrauger2014.Rd
